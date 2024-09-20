@@ -1,4 +1,4 @@
-Make a file name as 'main.py'
+# Make a file name as 'main.py'
 import phonenumbers
 import opencage
 from myphone import number
@@ -23,7 +23,10 @@ print(lat, lng)
 
 
 
-Two software we have to install name as
-1- pip install phonenumbers
-2- pip install opencage
-This two software we have to install in terminal in the code editor
+# Two software we have to install name as
+# 1- pip install phonenumbers
+# 2- pip install opencage
+# This two software we have to install in terminal in the code editor
+
+#make a anothor file name as myphone.py in there the code is 
+number = 'the number'
